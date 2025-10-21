@@ -71,5 +71,3 @@ After generating synthetic data, the app computes:
 ---
 
 
-cd hybrid-gan-copula-synthesizer
-pip install -r requirements.txt
