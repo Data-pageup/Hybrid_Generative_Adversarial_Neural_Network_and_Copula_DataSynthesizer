@@ -50,10 +50,7 @@ After generating synthetic data, the app computes:
 - Instantly download your generated synthetic dataset as a CSV file.
 - Columns and types aligned with your original dataset.
 
-###  5. Beautiful Modern UI
-- Built with **Streamlit** and enhanced with custom CSS.
-- Dark theme with glowing gradients and animated UI components.
-- Real-time progress indicators and expandable sections for clarity.
+
 
 ---
 
