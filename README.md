@@ -1,6 +1,6 @@
-# Hybrid GAN–Copula Data Synthesizer
+# Hybrid GAN - Copula Data Synthesizer
 
-**Hybrid Generative Adversarial Neural Network and Copula Based Synthetic Data Generator**
+**Hybrid Generative Adversarial Neural Network and Copul Data Synthesizer**
 
 A powerful Streamlit-based application that enables you to **upload a real-world tabular dataset**, preprocess it automatically, and generate **high-quality synthetic datasets** using **Gaussian Copula** and **Generative Adversarial Network (GAN)**–based synthesis models.
 
