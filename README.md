@@ -2,7 +2,7 @@
 
 **Hybrid Generative Adversarial Neural Network and Copul Data Synthesizer**
 
-
+## Model Demo: [ https://drive.google.com/file/d/1fd-9cMRGWv_yN45iL_XvwTw8XLJSGH6C/view?usp=drive_link ]
 
 A powerful Streamlit-based application that enables you to **upload a real-world tabular dataset**, preprocess it automatically, and generate **high-quality synthetic datasets** using **Gaussian Copula** and **Generative Adversarial Network (GAN)**–based synthesis models.
 
