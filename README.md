@@ -1,6 +1,6 @@
 # Hybrid GAN - Copula Data Synthesizer
 
-**Hybrid Generative Adversarial Neural Network and Copul Data Synthesizer**
+**Hybrid Generative Adversarial Neural Network and Copula Data Synthesizer**
 
 ## Model Demo: [ https://drive.google.com/file/d/1fd-9cMRGWv_yN45iL_XvwTw8XLJSGH6C/view?usp=drive_link ]
 
